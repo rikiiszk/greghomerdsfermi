@@ -183,30 +183,30 @@ body {
 
   @font-face {
     font-family: Jellyka BeesAntique Handwriting;
-    src: url("fonts/jellyka_beesantique_handwriting/Jellyka%20Bees%20Antique%20Handwriting.ttf");
+    src: url("fonts/Jellyka%20Bees%20Antique%20Handwriting.ttf");
   }
 
   @font-face {
     font-family: Taylor Swift Handwriting;
-    src: url("fonts/taylor-swift-handwriting/Taylor%20Swift%20Handwriting.ttf");
+    src: url("fonts/Taylor%20Swift%20Handwriting.ttf");
   }
 
   @font-face {
     font-family: Engravers Old English;
-    src: url("fonts/engravers-old-english-normal_shRJB/Engravers%20Old%20English%20Normal/Engravers%20Old%20English%20Normal.ttf");
+    src: url("fonts/Engravers%20Old%20English%20Normal.ttf");
   }
 
   @font-face {
     font-family: October Moon;
-    src: url("fonts/boulevard_3/boulevard.ttf");
+    src: url("fonts/boulevard.ttf");
   }
 
   @font-face {
     font-family: Carla Sans Light;
-    src: url("fonts/webpro-carla-sans-elegant-typeface-6CV85MH-components-2020-05-07/Carla%20Sans/TTF/CarlaSansLight.ttf");
+    src: url("fonts/CarlaSansLight.ttf");
   }
 
   @font-face {
     font-family: Grotesk;
-    src: url("fonts/NeueHaasGrotesk/NeueHaasDisplay-Mediu.ttf");
+    src: url("fonts/NeueHaasDisplay-Mediu.ttf");
   }
