@@ -1,0 +1,212 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+  }
+  
+  header {
+    background-color: black;
+    color: #fff;
+    padding: 15px;
+  }
+
+  header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black; 
+    z-index: 1000;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+  li a:hover:not(.active) {
+    background-color: gray;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  #banner {
+    margin-top: 54px;
+    background-image: url("file:///D:/Downloads/seagulls.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    height: 7.2em;
+  }
+  
+  #banner h1 {
+    font-size: 2em;
+    margin: 0;
+    text-shadow: 2px 2px 4px rgba(5, 5, 5, 0.5);
+    font-family: 'IM FELL DW Pica', serif;
+    margin-top: 5px;
+  }
+
+  .image img {
+    transition: transform 0.5s;
+  }
+  
+  .image img:hover {
+    transform: scale(1.05);
+  }
+  
+  #debut h2 {
+    font-family: 'Satisfaction', serif;
+  }
+
+  .bold {
+    font-weight: bold;
+  }
+
+  #fearless h2 {
+    font-family: 'Engravers Gothic BT', serif; 
+    font-size: 2em;
+  }
+
+  #speaknow h2 {
+    font-family: 'Jellyka BeesAntique Handwriting', serif;
+    font-size: 2.5em;
+  }
+
+  #red h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2.5em
+  }
+
+  #pop h2 {
+    font-family: 'Taylor Swift Handwriting', serif;
+    font-size: 3.5em;
+  }
+
+  #rep h2 {
+    font-family: 'Engravers Old English', serif;
+    font-size: 3em;
+  }
+
+  #lvr h2 {
+    font-family: 'October Moon', serif;
+    font-size: 2.5em;
+  }
+
+  #flk h2 {
+    font-family: 'IM FELL DW Pica', serif;
+    font-size: 2em;
+  }
+
+  #frlstv h2 {
+    font-family: 'Carla Sans Light', serif;
+    font-size: 2em;
+  }
+
+  #redtv h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2.5em;
+  }
+
+  #mdnts h2 {
+    font-family: 'Grotesk', serif;
+    font-size: 2em;
+  }
+
+  #banner p {
+    font-size: 1em;
+    margin: 20px 0;
+    font-family: 'Poppins', sans-serif;
+    text-shadow: 2px 2px 4px rgba(5, 5, 5, 0.5);
+
+  }
+  
+  .text {
+    border: 1px;  
+    width: 50%;
+    font-family: 'Poppins', sans-serif; 
+  }
+
+  .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    top: 35px;
+    left: 90x;
+  }
+  
+  .image {
+    margin-left: 70px;
+  }
+  
+  .text {
+    margin-left: 35px;
+    padding: 20px;
+  }
+    
+  .bold {
+    font-weight: bold;
+  }
+
+  #TS {
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(5, 5, 5, 0.5)
+  }
+    
+  @font-face {
+    font-family: Satisfaction;
+    src: url("file:///C:/Users/Greg%20Homer/Downloads/satisfaction/Satisfaction.ttf");
+  }
+
+  @font-face {
+    font-family: Engravers Gothic BT;
+    src: url("file:///D:/Downloads/Engravers-Gothic-BT-Font/Engravers-Gothic-BT-Font.ttf");
+  }
+
+  @font-face {
+    font-family: Jellyka BeesAntique Handwriting;
+    src: url("file:///C:/Users/Greg%20Homer/Downloads/jellyka_beesantique_handwriting/Jellyka%20Bees%20Antique%20Handwriting.ttf");
+  }
+
+  @font-face {
+    font-family: Taylor Swift Handwriting;
+    src: url("file:///D:/Downloads/taylor-swift-handwriting/Taylor%20Swift%20Handwriting.ttf");
+  }
+
+  @font-face {
+    font-family: Engravers Old English;
+    src: url("file:///C:/Users/Greg%20Homer/Downloads/engravers-old-english-normal_shRJB/Engravers%20Old%20English%20Normal/Engravers%20Old%20English%20Normal.ttf");
+  }
+
+  @font-face {
+    font-family: October Moon;
+    src: url("file:///C:/Users/Greg%20Homer/Downloads/boulevard_3/boulevard.ttf");
+  }
+
+  @font-face {
+    font-family: Carla Sans Light;
+    src: url("file:///C:/Users/Greg%20Homer/Downloads/webpro-carla-sans-elegant-typeface-6CV85MH-components-2020-05-07/Carla%20Sans/TTF/CarlaSansLight.ttf");
+  }
+
+  @font-face {
+    font-family: Grotesk;
+    src: url("file:///C:/Users/Greg%20Homer/Downloads/NeueHaasGrotesk/NeueHaasDisplay-Mediu.ttf");
+  }
