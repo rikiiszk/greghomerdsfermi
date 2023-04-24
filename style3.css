@@ -45,7 +45,7 @@ li a:hover:not(.active) {
   }
   
   #banner {
-    background-image: url("file:///C:/Users/Greg%20Homer/Downloads/strt.jpg");
+    background-image: url("pics/strt.jpg");
     background-size: cover;
     background-position: center;
     color: #fff;
