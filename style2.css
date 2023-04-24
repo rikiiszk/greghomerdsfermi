@@ -81,12 +81,12 @@ body {
   }
 
   #fearless h2 {
-    font-family: 'Engravers Gothic BT', serif; 
+    font-family: 'Engravers-Gothic-BT', serif; 
     font-size: 2em;
   }
 
   #speaknow h2 {
-    font-family: 'Jellyka BeesAntique Handwriting', serif;
+    font-family: 'Jellyka Bees Antique Handwriting', serif;
     font-size: 2.5em;
   }
 
@@ -106,7 +106,7 @@ body {
   }
 
   #lvr h2 {
-    font-family: 'October Moon', serif;
+    font-family: 'boulevard Regular', serif;
     font-size: 2.5em;
   }
 
@@ -126,7 +126,7 @@ body {
   }
 
   #mdnts h2 {
-    font-family: 'Grotesk', serif;
+    font-family: 'NeueHaasGrotesk-Mediu', serif;
     font-size: 2em;
   }
 
@@ -177,27 +177,27 @@ body {
   }
 
   @font-face {
-    font-family: Engravers Gothic BT;
+    font-family: Engravers-Gothic-BT;
     src: url("fonts/Engravers-Gothic-BT-Font.ttf");
   }
 
   @font-face {
-    font-family: Jellyka BeesAntique Handwriting;
-    src: url("fonts/Jellyka%20Bees%20Antique%20Handwriting.ttf");
+    font-family: Jellyka Bees Antique Handwriting;
+    src: url("fonts/Jellyka Bees Antique Handwriting.ttf");
   }
 
   @font-face {
     font-family: Taylor Swift Handwriting;
-    src: url("fonts/Taylor%20Swift%20Handwriting.ttf");
+    src: url("fonts/Taylor Swift Handwriting.ttf");
   }
 
   @font-face {
     font-family: Engravers Old English;
-    src: url("fonts/Engravers%20Old%20English%20Normal.ttf");
+    src: url("fonts/Engravers Old English Normal.ttf");
   }
 
   @font-face {
-    font-family: October Moon;
+    font-family: boulevard Regular;
     src: url("fonts/boulevard.ttf");
   }
 
@@ -207,6 +207,6 @@ body {
   }
 
   @font-face {
-    font-family: Grotesk;
+    font-family: NeueHaasGrotesk-Mediu;
     src: url("fonts/NeueHaasDisplay-Mediu.ttf");
   }
