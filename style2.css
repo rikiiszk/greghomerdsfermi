@@ -210,3 +210,8 @@ body {
     font-family: NeueHaasGrotesk-Mediu;
     src: url("fonts/NeueHaasDisplay-Mediu.ttf");
   }
+
+    @font-face {
+    font-family: IM FELL DW Pica;
+    src: url("fonts/FePlit2.ttf");
+  }
