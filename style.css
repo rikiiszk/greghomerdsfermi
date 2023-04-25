@@ -58,7 +58,7 @@ padding: 10px;
 #banner h1 {
   font-size: 2em;
   text-shadow: 2px 2px 4px rgba(5, 5, 5, 0.5);
-  font-family: 'IM Fell DW Pica', serif;
+  font-family: 'FEPlit2', serif;
   margin-top: 5px;
 }
 
@@ -104,6 +104,6 @@ padding: 10px;
 }
 
 @font-face {
-    font-family: IM FELL DW Pica;
+    font-family: FEPlit2;
     src: url("fonts/FePlit2.ttf");
   }
