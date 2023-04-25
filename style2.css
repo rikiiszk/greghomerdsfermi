@@ -111,7 +111,7 @@ body {
   }
 
   #flk h2 {
-    font-family: 'FEPlit2', serif;
+    font-family: 'IM Fell DW Pica', serif;
     font-size: 2em;
   }
 
@@ -211,7 +211,3 @@ body {
     src: url("fonts/NeueHaasDisplay-Mediu.ttf");
   }
 
-    @font-face {
-    font-family: FEPlit2;
-    src: url("fonts/FePlit2.ttf");
-  }
