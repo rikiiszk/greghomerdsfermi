@@ -122,8 +122,17 @@ li a:hover:not(.active) {
     font-size: 24px;
   }
   
-  .navbar a:hover {
-    color: #4267B2; 
+  .navbar a:nth-child(1):hover {
+    color: red; 
+  }
+  .navbar a:nth-child(2):hover {
+    color: blue; 
+  }
+  .navbar a:nth-child(3):hover {
+    color: purple; 
+  }
+  .navbar a:nth-child(4):hover {
+    color: blue; 
   }
   
   @import url('https://use.fontawesome.com/releases/v5.15.3/css/all.css');
